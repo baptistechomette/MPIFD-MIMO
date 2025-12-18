@@ -4,4 +4,4 @@ residues identification uses the least-square frequency domain estimator (LSFD) 
 
 The use of the toolbox is detailed step by step in the Matlab notebooks :
 - MPIFD_MIMO_4DOF_example.mlx : example of use on a four degrees of freedom numerical system.
-- MPIFD_MIMO_plate_example.mlx : example of use on an exprimental plate.
+- MPIFD_MIMO_plate_example.mlx : example of use on an experimental plate.
