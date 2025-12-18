@@ -26,7 +26,7 @@ function [MAC] = mac_matrix(phi1, phi2, varargin)
 % License :
 % GNU CC BY-NC-SA
 %
-% Realease : v0 ... 2025
+% GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007
 %
 % Reference : 
 % B. Chomette, J-L. Le Carrou, S. Karkar, F. Fabre, ..., JOSS, ...
