@@ -17,7 +17,7 @@ function[ms] = mode_separation(f, xi, mode1, mode2)
 % (French National research agency), Grant No. ANR-19-CE27-0013-01.
 %
 % License :
-% GNU CC BY-NC-SA
+% GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007
 %
 % Realease : v0 ... 2025
 %
