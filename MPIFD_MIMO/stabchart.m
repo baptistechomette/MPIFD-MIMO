@@ -30,7 +30,7 @@ function [fst, xist] = stabchart(fp, xip, fmin1, ximin1, f, fst, xist)
 % (French National research agency), Grant No. ANR-19-CE27-0013-01.
 %
 % License :
-% GNU CC BY-NC-SA
+% GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007
 %
 % Realease : v0 ... 2025
 %
