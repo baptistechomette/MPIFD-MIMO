@@ -1,3 +1,5 @@
+**Overview:**
+
 MPIFD-MIMO is a Matlab package that provides a set of tools to identify modal parameters of a structure using measured frequency response functions (FRFs):
 - frequency,
 - modal damping,
@@ -11,3 +13,7 @@ The identification of poles is based on the least-squares complex frequency-doma
 The use of the toolbox is detailed step by step in the Matlab notebooks :
 - MPIFD_MIMO_4DOF_example.mlx : example of use on a four degrees of freedom numerical system.
 - MPIFD_MIMO_plate_example.mlx : example of use on an experimental plate.
+
+**Reference:**
+
+Chomette et al. (2025). MPIFD-MIMO : A Matlab tool for modal parameters identification in frequency domain. _Journal of Open Source Software_, VOL (ISSUE), PAGE, https://doi.org/10.xxxxxx/draft.
