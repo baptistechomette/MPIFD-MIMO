@@ -12,7 +12,7 @@
 % License :
 % GNU CC BY-NC-SA
 %
-% Realease : v0 ... 2025
+% GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007
 %
 % Reference : 
 % B. Chomette, J-L. Le Carrou, S. Karkar, F. Fabre, ..., JOSS, ...
@@ -110,3 +110,4 @@ fig1 = mpifd_mimo(w1, frf1, vectAct, vectSens, vectOrder, useLRUR, ...
 % %% mac matrix verification
 % phi=st.id.phi;
 % MAC = mac_matrix(phi, phi_an) ;
+
