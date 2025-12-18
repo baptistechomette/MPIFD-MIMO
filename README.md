@@ -4,12 +4,9 @@ MPIFD-MIMO is a Matlab package that provides a set of tools to identify modal pa
 - modal residues,
 - real normal mode shapes.
 
-The identification of poles is based on the least-squares complex frequency-domain estimator (LSCF) using fast-stabilizing frequency domain parameter estimation method. The extraction of the stable poles is based on a clear stabilization chart included in an interactive graphical user interface (GUI):
+The identification of poles is based on the least-squares complex frequency-domain estimator (LSCF) using fast-stabilizing frequency domain parameter estimation method. The extraction of the stable poles is based on a clear stabilization chart included in an interactive graphical user interface (GUI). The residues identification uses the least-square frequency domain estimator (LSFD) and can be performed using classical or non classical damping assumption. Estimated FRFs and mode shapes can be finally viewed in the GUI after extracting and normalizing real normal modes from residues. An overview of the identification process can be described as follow:
 
 <img width="661.5" height="618" alt="figure" src="https://github.com/user-attachments/assets/ffacb588-edf0-45e8-b9b6-a25a0d518c90" />
-
-
-The residues identification uses the least-square frequency domain estimator (LSFD) and can be performed using classical or non classical damping assumption. Estimated FRFs and mode shapes can be finally viewed in the GUI after extracting and normalizing real normal modes from residues.
 
 The use of the toolbox is detailed step by step in the Matlab notebooks :
 - MPIFD_MIMO_4DOF_example.mlx : example of use on a four degrees of freedom numerical system.
