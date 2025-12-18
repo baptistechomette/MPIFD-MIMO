@@ -22,7 +22,7 @@ function model3D = createMeshObj(modelPath, Opt)
 % (French National research agency), Grant No. ANR-19-CE27-0013-01.
 %
 % License :
-% GNU CC BY-NC-SA
+% GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007
 %
 % Realease : v0 ... 2025
 %
@@ -111,4 +111,5 @@ function model3D = createMeshObj(modelPath, Opt)
     
     % define normals associated to dof indices
     [model3D.frfModelLink(:,1), model3D.frfModelLink(:,2)] = find(Opt.frfModelLink);
+
 end
