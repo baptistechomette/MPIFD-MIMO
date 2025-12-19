@@ -10,9 +10,13 @@ The identification of poles is based on the least-squares complex frequency-doma
 
 <img width="661.5" height="618" alt="figure" src="https://github.com/user-attachments/assets/ffacb588-edf0-45e8-b9b6-a25a0d518c90" />
 
-The use of the toolbox is detailed step by step in the Matlab notebooks :
+The use of the toolbox is detailed step by step in the Matlab notebooks:
 - MPIFD_MIMO_4DOF_example.mlx : example of use on a four degrees of freedom numerical system.
 - MPIFD_MIMO_plate_example.mlx : example of use on an experimental plate.
+
+Associated examples can be directly runned without notebook:
+- 4dof_example/four_dof_example_script.m
+- plate_example/plate_example_script.m
 
 **Reference:**
 
