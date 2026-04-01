@@ -19,7 +19,3 @@ The use of the toolbox is detailed step by step in the Matlab notebooks:
 Associated examples can be directly runned without notebook:
 - _4dof_example/four_dof_example_script.m_
 - _plate_example/plate_example_script.m_
-
-## Reference
-
-Chomette et al. (2025). MPIFD-MIMO : A Matlab tool for modal parameters identification in frequency domain. _Journal of Open Source Software_, VOL (ISSUE), PAGE, https://doi.org/10.xxxxxx/draft.
